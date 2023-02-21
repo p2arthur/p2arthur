@@ -86,7 +86,7 @@
 
 
 ## Github Stats  
-<div style="display:flex">
+<div style="display:flex;justify-content:center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p2arthur&show_icons=true&locale=en&layout=compact" alt="p2arthur" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p2arthur&show_icons=true&locale=en" alt="p2arthur" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p2arthur&" alt="p2arthur" /></p> 
