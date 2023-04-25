@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Arthut, a full-time full-stack web developer 👨‍💻🚀</div>  
+### <div align="center">I'm Arthur, a full-time full-stack web developer 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently looking for jobs  
+- 🔭 I’m currently Working as a web developer at <a href="https://algogator.finance">algogator.finance</a>  
   
 
 - 🌱 I’m currently learning REACT and PostgreSQL  
