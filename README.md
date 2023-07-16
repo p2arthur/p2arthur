@@ -30,7 +30,7 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 
 ## Rapidfire
 <table width="100%" align="center">
-  <tbody width="100%">
+  <tbody width="100%" display="flex">
   <tr width="50%">
     <td valign="top" >
 
@@ -75,11 +75,13 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 </tr>
 <tr>
   <td>
- <div>![Profile views counter](https://komarev.com/ghpvc/?username=p2arthur&&style=flat-square)</div>
+ 
   </td>
 </tr>
 </tbody>
-</table>  
+</table>
+
+<div>![Profile views counter](https://komarev.com/ghpvc/?username=p2arthur&&style=flat-square)</div>
 
   
 
