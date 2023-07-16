@@ -25,10 +25,14 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 <br/>  
 
 
-## Rapidfire  
+## Rapidfire
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Algogator finance](https://algogator.finance)  
+<div align="center">
+<img src="https://media.tenor.com/ang0VzOwbdAAAAAS/the-matrix-reloaded-matrix.gif" align="center" style="width: 100%" />
+</div>  
+
+- 🔭 I’m currently working at [Algogator finance](https://algogator.finance)  
   
 
 - 🌱 I’m currently learning Micro Front-Ends  
@@ -41,10 +45,6 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 
 
 </td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://media.tenor.com/ang0VzOwbdAAAAAS/the-matrix-reloaded-matrix.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
