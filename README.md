@@ -29,7 +29,7 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 </div>  
 
 ## Rapidfire
-<table width="100%">
+<table width="100%" align="center">
   <tbody width="100%">
   <tr width="50%">
     <td valign="top" >
