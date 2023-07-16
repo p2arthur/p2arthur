@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
-
-
     ## Hey u there, I'm Arthur Rabelo 👋
 
 
@@ -181,8 +169,3 @@
     ----
     <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github
             Profilinator</a></div>
-
-
-</body>
-
-</html>
