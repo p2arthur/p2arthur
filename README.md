@@ -29,7 +29,7 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 </div>  
 
 ## Rapidfire
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently working at [Algogator finance](https://algogator.finance)  
   
@@ -43,7 +43,7 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 - ⚡ Fun fact: I skate for more than 12 years  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 </td></tr></table>  
