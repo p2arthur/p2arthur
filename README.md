@@ -30,8 +30,8 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 
 ## Rapidfire
 <table width="100%">
-  <tr>
-    <td valign="top" width="100%">
+  <tr width="50%">
+    <td valign="top" >
 
 - 🔭 I’m currently working at [Algogator finance](https://algogator.finance)  
   
@@ -48,7 +48,7 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
   </td>
 </tr>
 
-<tr>
+<tr width="50%">
    <td valign="top" width="100%">
   ## Languages and Tools  
 <div align="center">  
