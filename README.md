@@ -30,6 +30,7 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 
 ## Rapidfire
 <table width="100%">
+  <tbody width="100%">
   <tr width="50%">
     <td valign="top" >
 
@@ -72,6 +73,7 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 </div>  
    </td>
 </tr>
+</tbody>
 </table>  
 
 <br/>  
