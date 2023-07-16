@@ -24,13 +24,12 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 
 <br/>  
 
-
-## Rapidfire
-<table><tr><td valign="top" width="50%">
-
 <div align="center">
 <img src="https://media.tenor.com/ang0VzOwbdAAAAAS/the-matrix-reloaded-matrix.gif" align="center" style="width: 100%" />
 </div>  
+
+## Rapidfire
+<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working at [Algogator finance](https://algogator.finance)  
   
