@@ -73,6 +73,11 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 </div>  
    </td>
 </tr>
+<tr>
+  <td>
+    ![Profile views counter](https://komarev.com/ghpvc/?username=p2arthur&&style=flat-square)  
+  </td>
+</tr>
 </tbody>
 </table>  
 
@@ -93,18 +98,7 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=p2arthur&&style=flat-square)  
-  
-
-<br/>  
-
-
+<br/> 
 <br />
 
 ----
