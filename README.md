@@ -1,4 +1,14 @@
-## Hey u there, I'm Arthur Rabelo 👋  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+
+    ## Hey u there, I'm Arthur Rabelo 👋  
   
 
 <a href="https://github.com/p2arthur" target="_blank">
@@ -32,7 +42,22 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 <table width="100%" align="center">
   <tbody width="100%" display="flex">
   <tr width="50%">
-    <td valign="top" >
+   
+</tr>
+</tbody>
+</table>  
+
+<br/>  
+
+
+<br/>  
+
+
+## Github Stats  
+<table>
+<tr>
+    
+<td valign="top" width="50%">
 
 - 🔭 I’m currently working at [Algogator finance](https://algogator.finance)  
   
@@ -46,10 +71,10 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 - ⚡ Fun fact: I skate for more than 12 years  
 
 
-  </td>
-</tr>
-</tbody>
-</table>
+</td>
+
+<td valign="top" width="50%">
+
 
 ## Languages and Tools  
 <div align="center">  
@@ -71,12 +96,9 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 </div>  
-  
 
-<br/>  
+</td></tr></table>  
 
-
-<br/>  
 
 
 ## Github Stats  
@@ -98,3 +120,7 @@ Beyond programming and design, I find solace in my favorite sport, skateboarding
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+    
+</body>
+</html>
