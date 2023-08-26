@@ -63,7 +63,7 @@ connecting and exploring exciting opportunities in the world of technology.
 - 🔭 I’m currently working at [Algogator finance](https://algogator.finance)
 
 
-- 🌱 I’m currently learning Micro Front-Ends
+- 🌱 I’m currently learning Micro services and DEV OPS
 
 
  - ❓ Ask me about anything related to React, javascript and tailwind
