@@ -36,7 +36,7 @@ With a **background in UX/UI design spanning over a decade**, I bring an eye for
 
 ### ⚡ Quick Facts  
 
-- 🏢 Currently working at **[Algogator Finance](https://algogator.finance)**  
+- 🏢 Currently working at **[Compx labs](https://algogator.finance](https://compx.io)**  
 - 🔥 Learning **AI agent development & advanced microservices**  
 - 🛠️ Love working with **React, Node.js, NestJS, and Tailwind**  
 - 🏂 Skateboarding for over **12 years** (pushing both on and off the board!)  
