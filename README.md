@@ -47,8 +47,8 @@ I'm currently a **fullstack engineer**, capable of building applications from **
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="42" /></a>
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="42" /></a>
     <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="42" /></a>
-    <a href="https://soliditylang.org/" target="_blank"><img src="[https://profilinator.rishav.dev/skills-assets/solidity.svg](https://powersandwich.com.tw/_astro/solidity-logo.DAC_m-oG.webp)" alt="Solidity" height="42" /></a>
-    <a href="https://algorand.com/" target="_blank"><img src="[https://profilinator.rishav.dev/skills-assets/algorand.svg](https://pbs.twimg.com/profile_images/962068712772616196/eYwuB0TO_400x400.jpg)" alt="Algorand" height="42" /></a>
+    <a href="https://soliditylang.org/" target="_blank"><img src="https://powersandwich.com.tw/_astro/solidity-logo.DAC_m-oG.webp" alt="Solidity" height="42" /></a>
+    <a href="https://algorand.com/" target="_blank"><img src="https://pbs.twimg.com/profile_images/962068712772616196/eYwuB0TO_400x400.jpg" alt="Algorand" height="42" /></a>
     <a href="https://nestjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="42" /></a>
 </div>
 
