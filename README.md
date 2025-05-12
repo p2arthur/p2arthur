@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-
-<body>
+<!-- Arthur Rabelo - Fullstack & Blockchain Developer -->
 
 ## Hey there, I'm Arthur Rabelo 👋  
 
@@ -24,13 +16,11 @@
 
 ### 👨‍💻 About Me  
 
-Hey, I'm Arthur—a Web3 Developer, blockchain enthusiast, and AI agent explorer. Over the past **three years**, I’ve built multiple apps using **React, Vue, TypeScript, and Node.js** while diving into **blockchain integrations** and **on-chain data processing**.  
+Hey, I'm Arthur—a **Fullstack & Blockchain Developer** passionate about **Algorand** and **Solidity** smart contracts. My journey into programming started with my fascination for **Algorand**, where I got deeply involved in building decentralized applications (dApps) and understanding the inner workings of blockchain technology. The more I built, the more I fell in love with how blockchain can transform industries.
 
-I started my journey with **web development** and quickly became fascinated with **blockchain technology**, working on **NFT projects, Algorand dApps, and smart contracts**. More recently, I’ve been exploring **AI agent development** and how it can shape the future of decentralized applications.  
+Lately, I began exploring **Solidity** and diving into the Ethereum ecosystem, appreciating its mature developer community and wealth of open-source projects. It’s been an incredible experience understanding the broader spectrum of **EVM-based** smart contracts and how it contrasts with **Algorand’s AVM**.  
 
-With a **background in UX/UI design spanning over a decade**, I bring an eye for aesthetics to everything I build, making sure that both **functionality and usability** go hand in hand.  
-
-🚀 **Let’s push the limits of Web3 and AI together!**  
+I'm currently a **fullstack engineer**, capable of building applications from **backend services** to **frontend interfaces**, with a strong focus on **smart contract integrations**. I believe that smart contracts are game-changers, and every new project is a chance to push boundaries and explore new possibilities.  
 
 ---
 
@@ -38,7 +28,7 @@ With a **background in UX/UI design spanning over a decade**, I bring an eye for
 
 - 🏢 Currently working at **[Compx labs](https://compx.io)**  
 - 🔥 Learning **AI agent development & advanced microservices**  
-- 🛠️ Love working with **React, Node.js, NestJS, and Tailwind**  
+- 🛠️ Love working with **React, Node.js, NestJS, Tailwind, Solidity, and Algorand**  
 - 🏂 Skateboarding for over **12 years** (pushing both on and off the board!)  
 
 ---
@@ -55,12 +45,11 @@ With a **background in UX/UI design spanning over a decade**, I bring an eye for
     <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="42" /></a>
     <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="42" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="42" /></a>
-    <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="42" /></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="42" /></a>
-    <a href="https://www.kubernetes.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="42" /></a>
-    <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="42" /></a>
-    <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="42" /></a>
-    <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="42" /></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="42" /></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="42" /></a>
+    <a href="https://soliditylang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/solidity.svg" alt="Solidity" height="42" /></a>
+    <a href="https://algorand.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/algorand.svg" alt="Algorand" height="42" /></a>
+    <a href="https://nestjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="42" /></a>
 </div>
 
 ---
@@ -85,6 +74,3 @@ With a **background in UX/UI design spanning over a decade**, I bring an eye for
 <div align="center">
     Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a>
 </div>
-
-</body>
-</html>
