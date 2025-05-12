@@ -34,7 +34,7 @@ I'm currently a **fullstack engineer**, capable of building applications from **
 ---
 
 <div align="center">
-    <img src="https://media.tenor.com/ang0VzOwbdAAAAAS/the-matrix-reloaded-matrix.gif" width="70%" height="150px" />
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdmdGQ2NHhkanp5bTZiY2Nwd3lnZDN6bHR4MWZycmU1M296ZWNxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="70%" height="150px" />
 </div>
 
 ---
