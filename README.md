@@ -26,7 +26,7 @@ I'm currently a **fullstack engineer**, capable of building applications from **
 
 ### ⚡ Quick Facts  
 
-- 🏢 Currently working at **[Compx labs](https://compx.io)**  
+- 🏢 Currently working at **[Algorand Foundation](https://algorand.co)**  
 - 🔥 Learning **AI agent development & advanced microservices**  
 - 🛠️ Love working with **React, Node.js, NestJS, Tailwind, Solidity, and Algorand**  
 - 🏂 Skateboarding for over **12 years** (pushing both on and off the board!)  
