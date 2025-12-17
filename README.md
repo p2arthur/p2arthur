@@ -2,6 +2,7 @@
 <h3 align="center">Web Engineer with a passion for blockchain technology</h3>
 
 <p align="left"> <a href="https://twitter.com/iam_p2" target="blank"><img src="https://img.shields.io/twitter/follow/iam_p2?logo=twitter&style=for-the-badge" alt="iam_p2" /></a> </p>
+<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F956803883336827577%2F&ved=0CBQQjRxqGAoTCND-38jBxJEDFQAAAAAdAAAAABC8AQ&opi=89978449" />
 <h3 align="left">👨‍💻 About Me</h3>
 
 I am a Brazilian Software Engineer currently living in Vancouver, Canada 🇨🇦. My journey in Web3 has come full circle—I started out fascinated by the Algorand ecosystem, and today, I’m incredibly proud to be working at the Algorand Foundation as a Junior Software Engineer on the AlgoKit team.
