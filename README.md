@@ -6,8 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p2arthur" alt="p2arthur" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iam_p2" target="blank"><img src="https://img.shields.io/twitter/follow/iam_p2?logo=twitter&style=for-the-badge" alt="iam_p2" /></a> </p>
------
-### About me 🏂
+👨‍💻 About Me
 
 I am a Brazilian Software Engineer currently living in Vancouver, Canada 🇨🇦. My journey in Web3 has come full circle—I started out fascinated by the Algorand ecosystem, and today, I’m incredibly proud to be working at the Algorand Foundation as a Junior Software Engineer on the AlgoKit team.
 
@@ -18,7 +17,6 @@ Building tools that help other developers fall in love with blockchain is what d
 🏢 Working on AlgoKit @ Algorand Foundation - 🚀 Breathing life into WeCoop: Merging Agentic AI (RAG agents) with blockchain provenance
 
 🛠️ Currently deep-diving into TypeScript, AlgoKit Utils, GitHub Actions, and Smart Contract Orchestration - 🧠 Facing fears: From marketing to engineering, and from public speaking to presenting at Novus - 🏂 Skateboarding for 12+ years (still pushing daily, even in the Vancouver rain!)
------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iam_p2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_p2" height="30" width="40" /></a>
