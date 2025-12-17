@@ -1,76 +1,34 @@
-<!-- Arthur Rabelo - Fullstack & Blockchain Developer -->
+<h1 align="center">Hi 👋, I'm Arthur Dias Rabelo</h1>
+<h3 align="center">Web Engineer with a passion for blockchain technology</h3>
 
-## Hey there, I'm Arthur Rabelo 👋  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=p2arthur&label=Profile%20views&color=0e75b6&style=flat" alt="p2arthur" /> </p>
 
-<a href="https://github.com/p2arthur" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://twitter.com/iam_p2" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://www.linkedin.com/in/arthur-rabelo-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p2arthur" alt="p2arthur" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/iam_p2" target="blank"><img src="https://img.shields.io/twitter/follow/iam_p2?logo=twitter&style=for-the-badge" alt="iam_p2" /></a> </p>
+-----
+### About me 🏂
 
-### 👨‍💻 About Me  
+I am a Brazilian Software Engineer currently living in Vancouver, Canada 🇨🇦. My journey in Web3 has come full circle—I started out fascinated by the Algorand ecosystem, and today, I’m incredibly proud to be working at the Algorand Foundation as a Junior Software Engineer on the AlgoKit team.
 
-Hey, I'm Arthur—a **Fullstack & Blockchain Developer** passionate about **Algorand** and **Solidity** smart contracts. My journey into programming started with my fascination for **Algorand**, where I got deeply involved in building decentralized applications (dApps) and understanding the inner workings of blockchain technology. The more I built, the more I fell in love with how blockchain can transform industries.
+Building tools that help other developers fall in love with blockchain is what drives me. Whether it's diving into TypeScript, optimizing CI/CD pipelines, or collaborating with senior architects in Barcelona, I’m constantly "breaking and rebuilding" to grow as an engineer. My background in communication helps me bridge the gap between complex tech and human collaboration—I believe that in dev teams, the more you help, the more the ecosystem thrives.
 
-Lately, I began exploring **Solidity** and diving into the Ethereum ecosystem, appreciating its mature developer community and wealth of open-source projects. It’s been an incredible experience understanding the broader spectrum of **EVM-based** smart contracts and how it contrasts with **Algorand’s AVM**.  
+⚡ Quick Facts
 
-I'm currently a **fullstack engineer**, capable of building applications from **backend services** to **frontend interfaces**, with a strong focus on **smart contract integrations**. I believe that smart contracts are game-changers, and every new project is a chance to push boundaries and explore new possibilities.  
+🏢 Working on AlgoKit @ Algorand Foundation - 🚀 Breathing life into WeCoop: Merging Agentic AI (RAG agents) with blockchain provenance
 
----
+🛠️ Currently deep-diving into TypeScript, AlgoKit Utils, GitHub Actions, and Smart Contract Orchestration - 🧠 Facing fears: From marketing to engineering, and from public speaking to presenting at Novus - 🏂 Skateboarding for 12+ years (still pushing daily, even in the Vancouver rain!)
+-----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iam_p2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_p2" height="30" width="40" /></a>
+</p>
 
-### ⚡ Quick Facts  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-- 🏢 Currently working at **[Algorand Foundation](https://algorand.co)**  
-- 🔥 Learning **AI agent development & advanced microservices**  
-- 🛠️ Love working with **React, Node.js, NestJS, Tailwind, Solidity, and Algorand**  
-- 🏂 Skateboarding for over **12 years** (pushing both on and off the board!)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=p2arthur&show_icons=true&locale=en&layout=compact" alt="p2arthur" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p2arthur&show_icons=true&locale=en" alt="p2arthur" /></p>
 
-<div align="center">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdmdGQ2NHhkanp5bTZiY2Nwd3lnZDN6bHR4MWZycmU1M296ZWNxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="70%" height="150px" />
-</div>
-
----
-
-### 🛠️ Tech Stack  
-
-<div align="center">
-    <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="42" /></a>
-    <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="42" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="42" /></a>
-    <a href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="42" /></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="42" /></a>
-    <a href="https://soliditylang.org/" target="_blank"><img src="https://powersandwich.com.tw/_astro/solidity-logo.DAC_m-oG.webp" alt="Solidity" height="42" /></a>
-    <a href="https://algorand.com/" target="_blank"><img src="https://pbs.twimg.com/profile_images/962068712772616196/eYwuB0TO_400x400.jpg" alt="Algorand" height="42" /></a>
-    <a href="https://nestjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="42" /></a>
-</div>
-
----
-
-### 📊 GitHub Stats  
-
-<table width="100%">
-    <tr>
-        <td width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=p2arthur&show_icons=true&count_private=true&hide_border=true" width="100%" />
-        </td>
-        <td width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p2arthur&hide_border=true&layout=compact" width="100%" />
-        </td>
-    </tr>
-</table>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=p2arthur&&style=flat-square)  
-
----
-
-<div align="center">
-    Generated using <a href="https://profilinator.rishav.dev/" target="_blank">GitHub Profilinator</a>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=p2arthur&" alt="p2arthur" /></p>
