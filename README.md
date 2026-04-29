@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=p2arthur&label=Profile%20views&color=0e75b6&style=flat" alt="p2arthur" /> 
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="neo shades" width="300" />
+</p>
+
 - 🔭 I'm currently building [DevLoot](https://devloot.xyz) — a decentralized bounty platform on Algorand
 - 🌱 I'm currently deep-diving into **AI agent systems, MCP integration, and multi-agent orchestration**
 - 👯 I'm looking to collaborate on **open-source tooling, developer experience, and Web3 projects**
@@ -36,6 +40,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=p2arthur&hide_border=true&theme=dark" alt="p2arthur" />
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="neo shades" width="300" />
-</p>
+
