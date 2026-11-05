@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="786" viewBox="0 0 1200 786" role="img" aria-labelledby="title desc">
+<title id="title">Arthur Rabelo | p2arthur</title>
+<desc id="desc">ASCII portrait of Arthur Rabelo. Product and full-stack engineer in Vancouver, Canada. Five years in software and ten years in UX/UI. Co-founder and primary builder of DevLoot. Works with React, TypeScript, React Native, Node.js, NestJS, PostgreSQL, RAG and MCP. Previously at Let’s Roam, Algorand Foundation and CompX Labs. Portfolio: arthurrabelo.com.</desc>
+<rect x=".5" y=".5" width="1199" height="785" rx="8" fill="#0d1117" stroke="#303946"/>
+<path d="M8 .5 H1192 Q1199.5 .5 1199.5 8 V64 H.5 V8 Q.5 .5 8 .5" fill="#151b23"/>
+<path d="M1 64.5H1199" stroke="#303946"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<text x="28" y="40" fill="#d9e2ed" font-size="18" font-weight="600" >p2arthur</text>
+<text x="132" y="40" fill="#98a6b8" font-size="17" font-weight="400" >/ README.md</text>
+<text x="1170" y="40" fill="#98a6b8" font-size="17" font-weight="400" text-anchor="end">~/</text>
+<text x="36" y="112" fill="#9bcea9" font-size="17" font-weight="400" >$ whoami</text>
+<text x="35" y="166.0" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">                                                        </text>
+<text x="35" y="177.65" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">                                                        </text>
+<text x="35" y="189.3" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">                    ...:::::::::::...                   </text>
+<text x="35" y="200.95" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">                ..::::--=----:---====---:               </text>
+<text x="35" y="212.6" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">             .::::----::..:::.:::.:-==--+=-.            </text>
+<text x="35" y="224.25" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">            :--.:=-:..:-=++***#***=-:-:::==-:           </text>
+<text x="35" y="235.9" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">          .:--:---:-+**##********####*=--==--:.         </text>
+<text x="35" y="247.55" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">         .:----::=+*****************###*+====-.         </text>
+<text x="35" y="259.2" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">        .:--::-=********###*######**#*###*+==-:. .      </text>
+<text x="35" y="270.85" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">       .-::-==+****####################******+=-.       </text>
+<text x="35" y="282.5" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">       ::-++****##***+++++++*****######***+++*++=:      </text>
+<text x="35" y="294.15" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">      :-+******#**+++++++++++******######**++===++-     </text>
+<text x="35" y="305.8" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">     .-**+*###*+++==========++++**########*+++==+*+:    </text>
+<text x="35" y="317.45000000000005" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">    .-**+*###*++++++==--===++*##########%##*=+++=+++:   </text>
+<text x="35" y="329.1" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">    .+*+*#*#*+*****++---==+++*****+**####%%#++++***+=   </text>
+<text x="35" y="340.75" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">    :*++####**+=+++++=--=+*****##**++*##%%%%*+++*#**=   </text>
+<text x="35" y="352.4" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">    =***####+=-+++**++=-=+*#*******++**#%%###+++*#**-   </text>
+<text x="35" y="364.05" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">    +****#%#+======++=---+****+++++++**#%#*#*++***#+    </text>
+<text x="35" y="375.70000000000005" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">    +#**+#%#========-----=***+++==++++*#%#**#+**##*.    </text>
+<text x="35" y="387.35" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">    +***=##*--::-------::-=+++=====+++*###**#####+.     </text>
+<text x="35" y="399.0" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">    =#*#**##=:::::---:--:-*+++=====+++*###*#####-  .    </text>
+<text x="35" y="410.65" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">    -#######+::::::--=**+*%%#*+++==+++*##*###**=        </text>
+<text x="35" y="422.3" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">    .#######+-:::-=+=+==+=+****##+=++*#%###**#*.        </text>
+<text x="35" y="433.95" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">     +######*=-::=*+=====+***##***++*#%%%%#**#*-        </text>
+<text x="35" y="445.6" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">     :####**#=--:-------==+****++++*#%@@@%##*##*=       </text>
+<text x="35" y="457.25" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">      +%####%#+-:--:::-=++===+++***#%@@@@%%%####+       </text>
+<text x="35" y="468.90000000000003" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">      .%%#%#%@%*---::::-==++++*####%@@@@@@%@####        </text>
+<text x="35" y="480.55" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">       -%%%%@@@@*+=----===+**#%%%%%@@@@@@#@@%%%:        </text>
+<text x="35" y="492.2" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">        *@%%%@@@****++++++**#%%##%%%%%@@%%%##@-         </text>
+<text x="35" y="503.85" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">       .*@%%%@@@*++++++++++*****####%@@@@%%#%+          </text>
+<text x="35" y="515.5" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">       =*##%%%@@*++++========+*#####@@@@%@%%#           </text>
+<text x="35" y="527.1500000000001" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">      -##%%%@@%@#*++========+****##%@@@%@@%#@+          </text>
+<text x="35" y="538.8" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">     .%#%#%%@@#%%*++========+*****#%@@%@@@%%@@-         </text>
+<text x="35" y="550.45" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">     *%#%%%@@%%%%#*++=======+*****#%@@@@@%#@@@@:        </text>
+<text x="35" y="562.1" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">    .=#%%%@@%##%%@#*+++=====+****##%@@@@@%@@@@@%.       </text>
+<text x="35" y="573.75" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">   .*+#@%%@@%%%%%@%#*++++++++****##%%@@@#@@@@@@@%:      </text>
+<text x="35" y="585.4000000000001" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">  .+*+%%%%%@%%@@%%%%#***++++++**####%@@%@@@@@@@@@@=     </text>
+<text x="35" y="597.05" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">  ++*#%@@@@@@%@@@@%%%#*+****+++***#%%@%%@@@@@@@@@@@+    </text>
+<text x="35" y="608.7" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs"> -*++**#%%@@@@@%@@@@@@@#**++++*#%%@@%@%@@@@@#@@@@@@@#.  </text>
+<text x="35" y="620.35" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">  +********%@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@%@@@@@@@@@: </text>
+<text x="35" y="632.0" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">   +#******#%@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@- </text>
+<text x="35" y="643.6500000000001" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">    +####***##@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%:  </text>
+<text x="35" y="655.3" fill="#acbfd1" font-size="11.5" font-weight="400" xml:space="preserve" textLength="366" lengthAdjust="spacingAndGlyphs">     +**#######%@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.   </text>
+<text x="218" y="705" fill="#98a6b8" font-size="16" font-weight="400" text-anchor="middle">Vancouver, Canada</text>
+<path d="M425 100V735" stroke="#303946"/>
+<text x="461" y="120" fill="#d9e2ed" font-size="25" font-weight="600" >arthur@p2arthur</text>
+<path d="M461 139H1164" stroke="#303946"/>
+<text x="461" y="176" fill="#e4b08a" font-size="17" font-weight="400" >Role</text>
+<path d="M511.48 172H599" stroke="#303946" stroke-dasharray="2 6"/>
+<text x="615" y="176" fill="#d9e2ed" font-size="17" font-weight="400" >Product / Full-stack Engineer</text>
+<text x="461" y="206" fill="#e4b08a" font-size="17" font-weight="400" >Building</text>
+<path d="M552.96 202H599" stroke="#303946" stroke-dasharray="2 6"/>
+<text x="615" y="206" fill="#d9e2ed" font-size="17" font-weight="400" >DevLoot · Co-founder</text>
+<text x="461" y="236" fill="#e4b08a" font-size="17" font-weight="400" >Experience</text>
+<path d="M573.7 232H599" stroke="#303946" stroke-dasharray="2 6"/>
+<text x="615" y="236" fill="#d9e2ed" font-size="17" font-weight="400" >5 years software · 10 years UX/UI</text>
+<text x="461" y="281" fill="#9bcea9" font-size="17" font-weight="600" >Stack</text>
+<path d="M530.85 276H1164" stroke="#303946"/>
+<text x="461" y="317" fill="#e4b08a" font-size="17" font-weight="400" >Languages</text>
+<path d="M563.33 313H599" stroke="#303946" stroke-dasharray="2 6"/>
+<text x="615" y="317" fill="#d9e2ed" font-size="17" font-weight="400" >TypeScript, JavaScript</text>
+<text x="461" y="347" fill="#e4b08a" font-size="17" font-weight="400" >Frontend</text>
+<path d="M552.96 343H599" stroke="#303946" stroke-dasharray="2 6"/>
+<text x="615" y="347" fill="#d9e2ed" font-size="17" font-weight="400" >React, React Native, Next.js</text>
+<text x="461" y="377" fill="#e4b08a" font-size="17" font-weight="400" >Backend</text>
+<path d="M542.59 373H599" stroke="#303946" stroke-dasharray="2 6"/>
+<text x="615" y="377" fill="#d9e2ed" font-size="17" font-weight="400" >Node.js, NestJS, PostgreSQL</text>
+<text x="461" y="407" fill="#e4b08a" font-size="17" font-weight="400" >AI / agents</text>
+<path d="M584.0699999999999 403H599" stroke="#303946" stroke-dasharray="2 6"/>
+<text x="615" y="407" fill="#d9e2ed" font-size="17" font-weight="400" >RAG, MCP, adaptive retrieval</text>
+<text x="461" y="452" fill="#9bcea9" font-size="17" font-weight="600" >Selected work</text>
+<path d="M613.81 447H1164" stroke="#303946"/>
+<text x="461" y="488" fill="#e4b08a" font-size="17" font-weight="400" >DevLoot</text>
+<path d="M542.59 484H599" stroke="#303946" stroke-dasharray="2 6"/>
+<text x="615" y="488" fill="#d9e2ed" font-size="17" font-weight="400" >Open-source discovery &amp; bounties</text>
+<text x="461" y="518" fill="#e4b08a" font-size="17" font-weight="400" >QuickPick</text>
+<path d="M563.33 514H599" stroke="#303946" stroke-dasharray="2 6"/>
+<text x="615" y="518" fill="#d9e2ed" font-size="17" font-weight="400" >AI search for people &amp; projects</text>
+<text x="461" y="548" fill="#e4b08a" font-size="17" font-weight="400" >Agent Bond</text>
+<path d="M573.7 544H599" stroke="#303946" stroke-dasharray="2 6"/>
+<text x="615" y="548" fill="#d9e2ed" font-size="17" font-weight="400" >AI twins for event networking</text>
+<text x="461" y="593" fill="#9bcea9" font-size="17" font-weight="600" >Previously</text>
+<path d="M582.7 588H1164" stroke="#303946"/>
+<text x="461" y="629" fill="#d9e2ed" font-size="17" font-weight="400" >Let’s Roam · Algorand Foundation · CompX Labs</text>
+<text x="461" y="674" fill="#9bcea9" font-size="17" font-weight="600" >Connect</text>
+<path d="M551.59 669H1164" stroke="#303946"/>
+<text x="461" y="710" fill="#e4b08a" font-size="17" font-weight="400" >Web</text>
+<path d="M501.11 706H599" stroke="#303946" stroke-dasharray="2 6"/>
+<text x="615" y="710" fill="#d9e2ed" font-size="17" font-weight="400" >arthurrabelo.com</text>
+<text x="461" y="740" fill="#e4b08a" font-size="17" font-weight="400" >DevLoot</text>
+<path d="M542.59 736H599" stroke="#303946" stroke-dasharray="2 6"/>
+<text x="615" y="740" fill="#d9e2ed" font-size="17" font-weight="400" >devloot.xyz/profile/p2arthur</text>
+</g></svg>
